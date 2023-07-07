@@ -1,0 +1,58 @@
+div {
+    margin: 150px;
+    padding: 10px;
+    background-color: #d6d6d6;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+q {
+    text-align: right;
+    display: block;
+    font-style: italic;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.another_slogan {
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.first_letter {
+    font-weight: bold;
+}
+
+.first_opacity {
+    opacity: 80%;
+}
+
+.second_opacity {
+    opacity: 60%;
+}
+
+.third_opacity {
+    opacity: 40%;
+}
+
+.fourth_opacity {
+    opacity: 30%;
+}
+
+.fifth_opacity {
+    opacity: 20%;
+}
+
+.sixth_opacity {
+    opacity: 10%;
+}
